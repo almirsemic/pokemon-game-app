@@ -22,3 +22,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Link to Heroku where you can view the app
+```
+https://kodimon.herokuapp.com/
+```
