@@ -23,9 +23,9 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-### Link to Heroku where you can view the app
+### Link to Vercel where you can view the app
 ```
-https://kodimon.herokuapp.com/
+https://pokemon-game-app.vercel.app/
 ```
 ![Untitled](https://user-images.githubusercontent.com/90575221/199497494-483862c1-bb54-4a3d-bd06-d1cc2364d5ea.png)
 ![Untitled1](https://user-images.githubusercontent.com/90575221/199497523-cec10446-a9eb-41fb-96eb-4b217c592bf8.png)
